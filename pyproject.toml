@@ -1,0 +1,7 @@
+[project]
+name = "sqcontroller"
+version = "0.1.0"
+description = "Calibrate superconducting qubits and run quantum circuits"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
